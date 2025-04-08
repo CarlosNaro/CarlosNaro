@@ -134,7 +134,6 @@ Here are some ideas to get you started:
 
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNaro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Carlos Naro's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNaro&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/CarlosNaro"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNaro&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Carlos Naro's GitHub stats" /></a> | <a href="https://github.com/CarlosNaro"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNaro&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
-
 

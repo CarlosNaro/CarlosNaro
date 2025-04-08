@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **alonsonaro75@gmail.com**
 
-- 📄 Know my portfolio <a href="https://naro-portfolio.vercel.app/" target="blank">Resume</a>
+- 📄 Know my portfolio <a href="https://naro-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Resume</a>
+
 
 <br><br>
 
